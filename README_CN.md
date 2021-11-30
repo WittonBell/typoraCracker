@@ -29,16 +29,16 @@
 > python typroa.py --help
 usage: typora.py [-h] [-u] [-f] asarPath dirPath
 
-extract and decryption app.asar file from [Typora].
+[extract and decryption / pack and encryption] app.asar file from [Typora].
 
 positional arguments:
-  asarPath    app.asar file path [input/ouput]
+  asarPath    app.asar file path/dir [input/ouput]
   dirPath     as tmp and out directory.
 
 optional arguments:
   -h, --help  show this help message and exit
   -u          pack & encryption (default: extract & decryption)
-  -f          enabled prettify/compress (default: disabled
+  -f          enabled prettify/compress (default: disabled)
 
 If you have any questions, please contact [ MasonShi@88.com ]
 
