@@ -31,27 +31,16 @@ ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
 > python typroa.py --help
 usage: typora.py [-h] [-u] [-f] asarPath dirPath
 
-<<<<<<< HEAD
-extract and decryption app.asar file from [Typora].
-
-positional arguments:
-  asarPath    app.asar file path [input/ouput]
-=======
 [extract and decryption / pack and encryption] app.asar file from [Typora].
 
 positional arguments:
   asarPath    app.asar file path/dir [input/ouput]
->>>>>>> Initial commit
   dirPath     as tmp and out directory.
 
 optional arguments:
   -h, --help  show this help message and exit
   -u          pack & encryption (default: extract & decryption)
-<<<<<<< HEAD
-  -f          enabled prettify/compress (default: disabled
-=======
   -f          enabled prettify/compress (default: disabled)
->>>>>>> Initial commit
 
 If you have any questions, please contact [ MasonShi@88.com ]
 
