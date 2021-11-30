@@ -1,0 +1,4 @@
+jsbeautifier==1.14.0
+jsmin==3.0.0
+loguru==0.5.3
+pycryptodome==3.11.0
