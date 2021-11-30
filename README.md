@@ -1,4 +1,6 @@
 # typora Cracker
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker?ref=badge_shield)
+
 
 A patch and keygen tools for typora.
 
@@ -61,3 +63,5 @@ serial: XXXXXX-XXXXXX-XXXXXX-XXXXXX
 
 ## LICENSE
  MIT LICENSE
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker?ref=badge_large)
